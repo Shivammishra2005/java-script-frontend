@@ -1,2 +1,2 @@
 # java-script-frontend
-js repo frmotend
+js repo  
